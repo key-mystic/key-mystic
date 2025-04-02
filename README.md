@@ -1,16 +1,21 @@
 ## Hi there 👋
 
+## - 😄 Pronouns: She/They
+## - 🔭 I’m currently working on: A Personal Wiki Project for writing projects that can be updated over time.
+## - 🌱 I’m currently learning:  the Fundamentals
+## - 💬 Ask me about:  Personal Projects, TTRPGs, Stories
+## - 📫 How to reach me: Email (Keyontrelennox02@gmail.com)
+## - ⚡ Fun fact: I have successfully completed a 1-20 D&D Campaign while being the DM with no scheduling errors. 
+
 <!--
 **key-mystic/key-mystic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## - 😄 Pronouns: ... She/They
+## - 🔭 I’m currently working on ... A Personal Wiki Project for writing projects that can be updated over time.
+## - 🌱 I’m currently learning ... the Fundamentals
+## - 💬 Ask me about ... Personal Projects, TTRPGs, Stories
+## - 📫 How to reach me: ... Email (Keyontrelennox02@gmail.com)
+## - ⚡ Fun fact: ... I have successfully completed a Level 1-20 D&D Campaign while being the DM with no scheduling errors. 
 -->
